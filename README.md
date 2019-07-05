@@ -4,5 +4,7 @@ Sometimes we have to many css files and some cloud based servers (like Oracle Co
 The only thing that's needed is to put it where dcu files are downloaded. 
 
 Future improvements are:
--Generalize to work with any sort of file structure 
--Check html tags using
+<ul>
+<li>Generalize to work with any sort of file structure</li>
+<li>Check html tags using</li>
+</ul>
